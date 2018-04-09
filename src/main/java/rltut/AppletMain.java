@@ -1,3 +1,5 @@
+package rltut;
+
 import asciiPanel.AsciiPanel;
 
 import java.applet.Applet;
